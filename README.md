@@ -81,6 +81,9 @@ link that will take me to that country on google maps.
 
 ### Getting started
 
+Please make sure you are using node version `v20.4.0` or later before install
+the node_modules.
+
 Clone this repository down to your machine
 
 `clone url`
