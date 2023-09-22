@@ -92,3 +92,11 @@ There are no intentional tricks within this repository. However there are some
 things that that have been intentionally sloppy in some areas. If you spot
 something that doesn't look quite right or you think it could be done better,
 please make the necessary changes you feel would improve the codebase.
+
+Finally, we are not expecting perfect code, nor all of the challenges to be
+completely fixed. Instead, we are very interested in seeing how you approach
+the challenges. So add comments and todos of things you would do and do
+differently if you had more time to compete the challenges.
+
+It is not recommended to spend more than a couple of hours on these challenges
+as we appreciate participants will be sacrificing their own time to complete them.
