@@ -45,7 +45,10 @@ Are you able to refactor this component so that it is using a more modern syntax
 like the rest of the code base?
 
 **Expected behavior** As a user, I want the Todos list to look and function
-exactly the same as it does now.
+exactly the same as it does now which is:
+
+* [ ] - Completing a todo updates the UI to have a strike through text.
+* [ ] - Deleting a todo removes the todo from the list and is no longer visible.
 
 ## Profile Card
 
@@ -54,8 +57,8 @@ for you which you can find here `app/components/profile-card.js` - A wireframe
 has been included to give you a rough idea of how the profile card should be
 layed out.
 
-**Expected Behaviour** As a user, I want to be able to either email or call a
-member of my team by clicking either the email or phone button on their profile
+**Expected Behaviour** As a user, I want to have the option to be able to call
+or email a member of my team by clicking on the relevant button in the profile
 card.
 
 ![Profile card wireframe](profile-card-wireframe.png)
@@ -66,6 +69,10 @@ This component is a part of a new feature which should allow the user to search
 for a country and then present the data back to them. You will be able to make
 queries to the following API `https://restcountries.com/v3.1/name/{name}` where
 name is replaced by the name of the country the user has typed in.
+
+The look of this component is not important. Feel free to replace the
+placeholders and or jazz up the design should you feel this would be a good or
+nice thing to do.
 
 **Expected Behaviour** As a user, when I search for a city, I would like to see
 it's `common` and `official` name. I would also like to know what currency it
