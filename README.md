@@ -35,7 +35,7 @@ Can you look into what might be causing this bug and try to fix it?
 **Expected behaviour** As a user, I should be able to click on either the
 increment or decrement button and the count should change accordingly.
 
-## Todos
+## Todos
 
 This component is using an older API than the rest of the code base. It is a
 class-based component and the rest of the code base is now using functional
