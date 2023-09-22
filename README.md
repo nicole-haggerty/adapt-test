@@ -86,11 +86,11 @@ installing the node_modules.
 
 Clone this repository down to your machine
 
-`clone url`
+`git clone https://github.com/adaptdigital-ltd/adapt-react-tech-test.git`
 
-Install node_modules
+Change the directory and install node_modules
 
-`install command`
+`cd adapt-react-tech-test.git && npm install`
 
 Run your local dev server
 
